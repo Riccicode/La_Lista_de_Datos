@@ -6,7 +6,7 @@ Notas rápidas:
 - Tags: usar v1.0, v1.1 para versiones públicas
 
 Comandos esenciales:
-git init
-git add .
-git commit -m "Mensaje"
-git push origin main
+- git init
+- git add .
+- git commit -m "Mensaje"
+- git push origin main
